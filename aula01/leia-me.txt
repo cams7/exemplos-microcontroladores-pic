@@ -1,0 +1,2 @@
+Microcontrolador: PIC16F84A
+Frequencia: 4MHz

@@ -31,3 +31,19 @@
 # Debug files
 *.dSYM/
 *.su
+
+#mikroC
+*.asm
+*.cp
+*.dbg
+*.mcl
+*.ppc
+*_callertable.txt
+
+#Proteus
+*.workspace
+*.pdsbak
+
+#Arquivos do WR Kits
+*.rar
+PIC*/
