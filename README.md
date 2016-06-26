@@ -1,4 +1,4 @@
-Exemplos de aplicações para os microcontroladores PIC
+Exemplos de aplicações para os [microcontroladores PIC] (https://pt.wikipedia.org/wiki/Microcontrolador_PIC)
 ========================
 * Autor: César Magalhães
 * Tecnologias: Proteus 8.4, mikroC PIC 6.2
@@ -21,7 +21,7 @@ Para testa os exemplos
 * Instale o Proteus 8.4
 * Instale o mikroC PIC 6.2
 
-Exemplos em C (ANSI) retirados do Youtube através do canal WR Kits - [Curso de Microcontroladores PIC] (https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh)
+Exemplos em [C (ANSI)] (https://en.wikipedia.org/wiki/ANSI_C) retirados do Youtube através do canal [WR Kits] (https://www.youtube.com/user/canalwrkits) - [Curso de Microcontroladores PIC] (https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh)
 -------------------
 01. [INTRODUÇÃO, PIC16F84A] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/ANSI%20C/Youtube%20-%20WR%20Kits/Aula01%20-%20INTRODU%C3%87%C3%83O%2C%20PIC16F84A) | [Curso de PIC #001] (https://www.youtube.com/watch?v=mFP3djjwVGk&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=1)
 02. FUSÍVEIS, DATASHEET, ISIS PROTEUS | [Curso de PIC #002] (https://www.youtube.com/watch?v=E1ClQ68zzKI&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=2)
@@ -108,7 +108,7 @@ Exemplos em C (ANSI) retirados do Youtube através do canal WR Kits - [Curso de 
 83. AMOSTRAGEM DO CONVERSOR AD | [Curso de PIC #083] (https://www.youtube.com/watch?v=ZbUXq2SWFCM&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=83)
 84. PIC18 COM DISPLAY LCD | [Curso de PIC #084] (https://www.youtube.com/watch?v=3ZYkUwDhfpU&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=84)
 
-Exemplos em Assembly retirados do Youtube através do canal WR Kits - [Curso de Assembly para PIC] (https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt)
+Exemplos em [Assembly] (https://pt.wikipedia.org/wiki/Assembly) retirados do Youtube através do canal [WR Kits] (https://www.youtube.com/user/canalwrkits) - [Curso de Assembly para PIC] (https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt)
 -------------------
 01. VANTAGENS DO ASSEMBLY, INTRODUÇÃO AO MPLAB | [Assembly para PIC #001] (https://www.youtube.com/watch?v=4vua8Fxbs1A&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=1)
 02. ARQUIVOS INC E FUSE BITS | [Assembly para PIC #002] (https://www.youtube.com/watch?v=9gZkrILzp9s&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=2)
