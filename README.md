@@ -1,7 +1,7 @@
 Exemplos de aplicações para os [microcontroladores PIC] (https://pt.wikipedia.org/wiki/Microcontrolador_PIC)
 ========================
 * Autor: César Magalhães
-* Tecnologias: Proteus 8.4, mikroC PIC 6.2
+* Tecnologias: Proteus 8.4, mikroC PIC 6.2, MPLAB IDE v8.92
 * Resumo: Aplicações para os microcontroladores PIC
 * Linguagens: Assembly, C (ANSI)
 * Fonte: <https://github.com/cams7/exemplos-microcontroladores-pic>
@@ -15,6 +15,7 @@ Sistemas requeridos
 -------------------
 * [Proteus 8.4] (https://www.labcenter.com/)
 * [mikroC PIC 6.2] (http://www.mikroe.com/mikroc/pic/)
+* [MPLAB IDE v8.92] (http://www.microchip.com/development-tools/downloads-archive)
 
 Para testa os exemplos
 -------------------
