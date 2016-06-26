@@ -21,7 +21,7 @@ Para testa os exemplos
 * Instale o Proteus 8.4
 * Instale o mikroC PIC 6.2
 
-Exemplos em [C (ANSI)] (https://en.wikipedia.org/wiki/ANSI_C) retirados do Youtube através do canal [WR Kits] (https://www.youtube.com/user/canalwrkits) - [Curso de Microcontroladores PIC] (https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh)
+Exemplos em [C (ANSI)] (https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)) retirados do Youtube através do canal [WR Kits] (https://www.youtube.com/user/canalwrkits) - [Curso de Microcontroladores PIC] (https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh)
 -------------------
 01. [INTRODUÇÃO, PIC16F84A] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/ANSI%20C/Youtube%20-%20WR%20Kits/Aula01%20-%20INTRODU%C3%87%C3%83O%2C%20PIC16F84A) | [Curso de PIC #001] (https://www.youtube.com/watch?v=mFP3djjwVGk&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=1)
 02. FUSÍVEIS, DATASHEET, ISIS PROTEUS | [Curso de PIC #002] (https://www.youtube.com/watch?v=E1ClQ68zzKI&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=2)
