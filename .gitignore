@@ -35,28 +35,9 @@ Thumbs.db
 *.dSYM/
 *.su
 
-#mikroC
-#*.asm
-*.cp
-*.dbg
-*.mcl
-*.ppc
-*_callertable.txt
-
 #Proteus
 *.workspace
 *.pdsbak
 
-#MPLAB IDE v8.92
-*.cof
-*.err
-*.lst
-*.map
-*.mcp
-*.mcw
-
 #Arquivos do WR Kits
 *.rar
-PIC*/
-
-

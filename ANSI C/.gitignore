@@ -1,0 +1,7 @@
+#mikroC
+*.asm
+*.cp
+*.dbg
+*.mcl
+*.ppc
+*_callertable.txt

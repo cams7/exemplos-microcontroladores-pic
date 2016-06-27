@@ -111,11 +111,11 @@ Exemplos em [C (ANSI)] (https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C
 
 Exemplos em [Assembly] (https://pt.wikipedia.org/wiki/Assembly) retirados do Youtube através do canal [WR Kits] (https://www.youtube.com/user/canalwrkits) - [Curso de Assembly para PIC] (https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt)
 -------------------
-01. VANTAGENS DO ASSEMBLY, INTRODUÇÃO AO MPLAB | [Assembly para PIC #001] (https://www.youtube.com/watch?v=4vua8Fxbs1A&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=1)
-02. ARQUIVOS INC E FUSE BITS | [Assembly para PIC #002] (https://www.youtube.com/watch?v=9gZkrILzp9s&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=2)
-03. TERMOS DO SET DE INSTRUÇÃO E BANCOS DE MEMÓRIA | [Assembly para PIC #003] (https://www.youtube.com/watch?v=-CTWxFmQscE&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=3)
-04. ENTRADAS E SAÍDAS, VETOR DE RESET E INTERRUPÇÃO | [Assembly para PIC #004] (https://www.youtube.com/watch?v=fcT5fI6bqfc&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=4)
-05. CRIANDO NOVO PROJETO E SIMULANDO NO MPLAB | [Assembly para PIC #005] (https://www.youtube.com/watch?v=XX0p5csssTM&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=5)
+01. [VANTAGENS DO ASSEMBLY, INTRODUÇÃO AO MPLAB] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula01%20-%20VANTAGENS%20DO%20ASSEMBLY%2C%20INTRODU%C3%87%C3%83O%20AO%20MPLAB) | [Assembly para PIC #001] (https://www.youtube.com/watch?v=4vua8Fxbs1A&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=1)
+02. [ARQUIVOS INC E FUSE BITS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula02%20-%20ARQUIVOS%20INC%20E%20FUSE%20BITS) | [Assembly para PIC #002] (https://www.youtube.com/watch?v=9gZkrILzp9s&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=2)
+03. [TERMOS DO SET DE INSTRUÇÃO E BANCOS DE MEMÓRIA] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula03%20-%20TERMOS%20DO%20SET%20DE%20INSTRU%C3%87%C3%83O%20E%20BANCOS%20DE%20MEM%C3%93RIA) | [Assembly para PIC #003] (https://www.youtube.com/watch?v=-CTWxFmQscE&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=3)
+04. [ENTRADAS E SAÍDAS, VETOR DE RESET E INTERRUPÇÃO] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula04%20-%20ENTRADAS%20E%20SA%C3%8DDAS%2C%20VETOR%20DE%20RESET%20E%20INTERRUP%C3%87%C3%83O) | [Assembly para PIC #004] (https://www.youtube.com/watch?v=fcT5fI6bqfc&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=4)
+05. [CRIANDO NOVO PROJETO E SIMULANDO NO MPLAB] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula05%20-%20CRIANDO%20NOVO%20PROJETO%20E%20SIMULANDO%20NO%20MPLAB) | [Assembly para PIC #005] (https://www.youtube.com/watch?v=XX0p5csssTM&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=5)
 06. BOTÃO COM LED | [Assembly para PIC #006] (https://www.youtube.com/watch?v=g8ltH0UUpOQ&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=6)
 07. COMO GRAVAR UM PIC USANDO MPLAB | [Assembly para PIC #007] (https://www.youtube.com/watch?v=_qKa4v9nCFk&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=7)
 08. SUB-ROTINAS | [Assembly para PIC #008] (https://www.youtube.com/watch?v=M0u6JKUiKz8&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=8)

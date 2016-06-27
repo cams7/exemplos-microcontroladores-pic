@@ -1,0 +1,9 @@
+#MPLAB IDE v8.92
+*.cof
+*.err
+*.lst
+*.map
+*.mcp
+*.mcw
+*.mcs
+*.sbs
