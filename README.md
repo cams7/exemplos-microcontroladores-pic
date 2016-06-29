@@ -121,8 +121,8 @@ Exemplos em [Assembly] (https://pt.wikipedia.org/wiki/Assembly) retirados do You
 08. [SUB-ROTINAS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula08%20-%20SUB-ROTINAS) | [Assembly para PIC #008] (https://www.youtube.com/watch?v=M0u6JKUiKz8&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=8)
 09. [PILHA, MEMÓRIA DE PROGRAMA E DE DADOS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula09%20-%20PILHA%2C%20MEM%C3%93RIA%20DE%20PROGRAMA%20E%20DE%20DADOS) | [Assembly para PIC #009] (https://www.youtube.com/watch?v=sTA5xRjmbxM&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=9)
 10. [CÁLCULO DE DELAY E O CICLO DE MÁQUINA] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula10%20-%20C%C3%81LCULO%20DE%20DELAY%20E%20O%20CICLO%20DE%20M%C3%81QUINA) | [Assembly para PIC #010] (https://www.youtube.com/watch?v=iMzgNau9x-w&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=10)
-11. REGISTRADORES DE USO GERAL | [Assembly para PIC #011] (https://www.youtube.com/watch?v=uzV4FGVLvsw&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=11)
-12. INSTRUÇÕES ARITMÉTICAS | [Assembly para PIC #012] (https://www.youtube.com/watch?v=IExz5c_jxGw&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=12)
+11. [REGISTRADORES DE USO GERAL] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula11%20-%20REGISTRADORES%20DE%20USO%20GERAL) | [Assembly para PIC #011] (https://www.youtube.com/watch?v=uzV4FGVLvsw&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=11)
+12. [INSTRUÇÕES ARITMÉTICAS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula12%20-%20INSTRU%C3%87%C3%95ES%20ARITM%C3%89TICAS) | [Assembly para PIC #012] (https://www.youtube.com/watch?v=IExz5c_jxGw&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=12)
 13. INSTRUÇÕES LÓGICAS | [Assembly para PIC #013] (https://www.youtube.com/watch?v=xGOu86QgdW0&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=13)
 14. DESVIOS CONDICIONAIS | [Assembly para PIC #014] (https://www.youtube.com/watch?v=M8-TV1jlPTg&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=14)
 15. SET DE INSTRUÇÕES COMPLETO | [Assembly para PIC #015] (https://www.youtube.com/watch?v=BJEzf1X3VEY&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=15)
@@ -143,3 +143,8 @@ Exemplos em [Assembly] (https://pt.wikipedia.org/wiki/Assembly) retirados do You
 30. SIMULANDO ENTRADA E SAÍDA DE INTERRUPÇÃO | [Assembly para PIC #030] (https://www.youtube.com/watch?v=tXHZS1F6xyc&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=30)
 31. TIMER0 | [Assembly para PIC #031] (https://www.youtube.com/watch?v=agOo3vVOO5s&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=31)
 32. ENTENDA A INTERRUPÇÃO DO TIMER0 | [Assembly para PIC #032] (https://www.youtube.com/watch?v=1M3vwoxEWiM&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=32)
+
+Componentes eletrônicos
+-------------------
+01. [Microcontrolador PIC16F84A] (http://www.baudaeletronica.com.br/microcontrolador-pic16f84a.html)
+02. [Microcontrolador PIC16F628A] (http://www.baudaeletronica.com.br/microcontrolador-pic16f628a.html)
