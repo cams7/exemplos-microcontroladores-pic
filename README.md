@@ -123,9 +123,9 @@ Exemplos em [Assembly] (https://pt.wikipedia.org/wiki/Assembly) retirados do You
 10. [CÁLCULO DE DELAY E O CICLO DE MÁQUINA] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula10%20-%20C%C3%81LCULO%20DE%20DELAY%20E%20O%20CICLO%20DE%20M%C3%81QUINA) | [Assembly para PIC #010] (https://www.youtube.com/watch?v=iMzgNau9x-w&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=10)
 11. [REGISTRADORES DE USO GERAL] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula11%20-%20REGISTRADORES%20DE%20USO%20GERAL) | [Assembly para PIC #011] (https://www.youtube.com/watch?v=uzV4FGVLvsw&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=11)
 12. [INSTRUÇÕES ARITMÉTICAS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula12%20-%20INSTRU%C3%87%C3%95ES%20ARITM%C3%89TICAS) | [Assembly para PIC #012] (https://www.youtube.com/watch?v=IExz5c_jxGw&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=12)
-13. INSTRUÇÕES LÓGICAS | [Assembly para PIC #013] (https://www.youtube.com/watch?v=xGOu86QgdW0&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=13)
-14. DESVIOS CONDICIONAIS | [Assembly para PIC #014] (https://www.youtube.com/watch?v=M8-TV1jlPTg&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=14)
-15. SET DE INSTRUÇÕES COMPLETO | [Assembly para PIC #015] (https://www.youtube.com/watch?v=BJEzf1X3VEY&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=15)
+13. [INSTRUÇÕES LÓGICAS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula13%20-%20INSTRU%C3%87%C3%95ES%20L%C3%93GICAS) | [Assembly para PIC #013] (https://www.youtube.com/watch?v=xGOu86QgdW0&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=13)
+14. [DESVIOS CONDICIONAIS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula14%20-%20DESVIOS%20CONDICIONAIS) | [Assembly para PIC #014] (https://www.youtube.com/watch?v=M8-TV1jlPTg&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=14)
+15. [SET DE INSTRUÇÕES COMPLETO] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula15%20-%20SET%20DE%20INSTRU%C3%87%C3%95ES%20COMPLETO) | [Assembly para PIC #015] (https://www.youtube.com/watch?v=BJEzf1X3VEY&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=15)
 16. MICROCONTROLADOR PIC16F628A | [Assembly para PIC #016] (https://www.youtube.com/watch?v=vpBH2GA0EvU&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=16)
 17. PINOS DO PIC16F628A | [Assembly para PIC #017] (https://www.youtube.com/watch?v=jYc2DcYZw8I&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=17)
 18. FUSE BITS DO PIC16F628A | [Assembly para PIC #018] (https://www.youtube.com/watch?v=xAEqdZHvpC4&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=18)
@@ -147,4 +147,6 @@ Exemplos em [Assembly] (https://pt.wikipedia.org/wiki/Assembly) retirados do You
 Componentes eletrônicos
 -------------------
 01. [Microcontrolador PIC16F84A] (http://www.baudaeletronica.com.br/microcontrolador-pic16f84a.html)
-02. [Microcontrolador PIC16F628A] (http://www.baudaeletronica.com.br/microcontrolador-pic16f628a.html)
+02. [Pickit 3 Clone - Gravador Depurador Programador Microchip PICkit3] (http://www.casadoci.com.br/pickit-3-clone.html)
+03. [Microcontrolador PIC16F628A] (http://www.baudaeletronica.com.br/microcontrolador-pic16f628a.html)
+04. [PARADOXUS PEPTO] (https://wrkits.com.br/catalog/show/141)
