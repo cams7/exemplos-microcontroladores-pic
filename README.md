@@ -134,9 +134,9 @@ Exemplos em [Assembly] (https://pt.wikipedia.org/wiki/Assembly) retirados do You
 21. [ENTRADAS E SAÍDAS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula21%20-%20ENTRADAS%20E%20SA%C3%8DDAS) | [Assembly para PIC #021] (https://www.youtube.com/watch?v=vWDGe9xkev4&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=21)
 22. [PRÁTICA ENTRADAS E SAÍDAS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula22%20-%20PR%C3%81TICA%20ENTRADAS%20E%20SA%C3%8DDAS) | [Assembly para PIC #022] (https://www.youtube.com/watch?v=4zw1i6IYJM0&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=22)
 23. [ANTI-BOUNCING PARA BOTÕES] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula23%20-%20ANTI-BOUNCING%20PARA%20BOT%C3%95ES) | [Assembly para PIC #023] (https://www.youtube.com/watch?v=NBRjkOpJ_YA&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=23)
-24. INSTRUÇÕES ESPECIAIS | [Assembly para PIC #024] (https://www.youtube.com/watch?v=K76dau7aSDc&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=24)
-25. MULTIPLICAÇÃO COM PIC16 | [Assembly para PIC #025] (https://www.youtube.com/watch?v=kdI4Xlm0iCI&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=25)
-26. INVERSÃO DE SAÍDAS OU BITS | [Assembly para PIC #026] (https://www.youtube.com/watch?v=3XXWsadmY8g&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=26)
+24. [INSTRUÇÕES ESPECIAIS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula24%20-%20INSTRU%C3%87%C3%95ES%20ESPECIAIS) | [Assembly para PIC #024] (https://www.youtube.com/watch?v=K76dau7aSDc&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=24)
+25. [MULTIPLICAÇÃO COM PIC16] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula25%20-%20MULTIPLICA%C3%87%C3%83O%20COM%20PIC16) | [Assembly para PIC #025] (https://www.youtube.com/watch?v=kdI4Xlm0iCI&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=25)
+26. [INVERSÃO DE SAÍDAS OU BITS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula26%20-%20INVERS%C3%83O%20DE%20SA%C3%8DDAS%20OU%20BITS) | [Assembly para PIC #026] (https://www.youtube.com/watch?v=3XXWsadmY8g&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=26)
 27. DIVISÃO COM PIC16 | [Assembly para PIC #027] (https://www.youtube.com/watch?v=KqR4HzS2dys&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=27)
 28. O QUE SÃO INTERRUPÇÕES? | [Assembly para PIC #028] (https://www.youtube.com/watch?v=RaZG0q3HauE&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=28)
 29. COMO ENTRAR E SAIR DE UMA INTERRUPÇÃO | [Assembly para PIC #029] (https://www.youtube.com/watch?v=Ti-kekTIaw4&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=29)
@@ -147,6 +147,6 @@ Exemplos em [Assembly] (https://pt.wikipedia.org/wiki/Assembly) retirados do You
 Componentes eletrônicos
 -------------------
 01. [Microcontrolador PIC16F84A] (http://www.baudaeletronica.com.br/microcontrolador-pic16f84a.html)
-02. [Pickit 3 Clone - Gravador Depurador Programador Microchip PICkit3] (http://www.casadoci.com.br/pickit-3-clone.html)
+02. [Gravador de PIC USB PicKit3] (http://www.filipeflop.com/pd-2bcdb3-gravador-de-pic-usb-pickit3.html?ct=41dc3&p=1&s=1)
 03. [Microcontrolador PIC16F628A] (http://www.baudaeletronica.com.br/microcontrolador-pic16f628a.html)
 04. [PARADOXUS PEPTO] (https://wrkits.com.br/catalog/show/141)
