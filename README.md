@@ -137,12 +137,13 @@ Exemplos em [Assembly] (https://pt.wikipedia.org/wiki/Assembly) retirados do You
 24. [INSTRUÇÕES ESPECIAIS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula24%20-%20INSTRU%C3%87%C3%95ES%20ESPECIAIS) | [Assembly para PIC #024] (https://www.youtube.com/watch?v=K76dau7aSDc&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=24)
 25. [MULTIPLICAÇÃO COM PIC16] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula25%20-%20MULTIPLICA%C3%87%C3%83O%20COM%20PIC16) | [Assembly para PIC #025] (https://www.youtube.com/watch?v=kdI4Xlm0iCI&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=25)
 26. [INVERSÃO DE SAÍDAS OU BITS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula26%20-%20INVERS%C3%83O%20DE%20SA%C3%8DDAS%20OU%20BITS) | [Assembly para PIC #026] (https://www.youtube.com/watch?v=3XXWsadmY8g&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=26)
-27. DIVISÃO COM PIC16 | [Assembly para PIC #027] (https://www.youtube.com/watch?v=KqR4HzS2dys&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=27)
+27. [DIVISÃO COM PIC16] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula27%20-%20DIVIS%C3%83O%20COM%20PIC16) | [Assembly para PIC #027] (https://www.youtube.com/watch?v=KqR4HzS2dys&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=27)
 28. O QUE SÃO INTERRUPÇÕES? | [Assembly para PIC #028] (https://www.youtube.com/watch?v=RaZG0q3HauE&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=28)
-29. COMO ENTRAR E SAIR DE UMA INTERRUPÇÃO | [Assembly para PIC #029] (https://www.youtube.com/watch?v=Ti-kekTIaw4&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=29)
-30. SIMULANDO ENTRADA E SAÍDA DE INTERRUPÇÃO | [Assembly para PIC #030] (https://www.youtube.com/watch?v=tXHZS1F6xyc&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=30)
-31. TIMER0 | [Assembly para PIC #031] (https://www.youtube.com/watch?v=agOo3vVOO5s&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=31)
-32. ENTENDA A INTERRUPÇÃO DO TIMER0 | [Assembly para PIC #032] (https://www.youtube.com/watch?v=1M3vwoxEWiM&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=32)
+29. [COMO ENTRAR E SAIR DE UMA INTERRUPÇÃO] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula29%20-%20COMO%20ENTRAR%20E%20SAIR%20DE%20UMA%20INTERRUP%C3%87%C3%83O) | [Assembly para PIC #029] (https://www.youtube.com/watch?v=Ti-kekTIaw4&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=29)
+30. [SIMULANDO ENTRADA E SAÍDA DE INTERRUPÇÃO] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula30%20-%20SIMULANDO%20ENTRADA%20E%20SA%C3%8DDA%20DE%20INTERRUP%C3%87%C3%83O) | [Assembly para PIC #030] (https://www.youtube.com/watch?v=tXHZS1F6xyc&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=30)
+31. [TIMER0] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula31%20-%20TIMER0) | [Assembly para PIC #031] (https://www.youtube.com/watch?v=agOo3vVOO5s&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=31)
+32. [ENTENDA A INTERRUPÇÃO DO TIMER0] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula32%20-%20ENTENDA%20A%20INTERRUP%C3%87%C3%83O%20DO%20TIMER0) | [Assembly para PIC #032] (https://www.youtube.com/watch?v=1M3vwoxEWiM&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=32)
+33.	LED BLINK COM TIMER0 | [Assembly para PIC #033] (https://www.youtube.com/watch?v=0j3g-O96DkI&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=33) 
 
 Componentes eletrônicos
 -------------------
