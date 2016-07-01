@@ -9,7 +9,7 @@ Exemplos de aplicações para os [microcontroladores PIC] (https://pt.wikipedia.
 
 Qual a finalidade desses exemplos?
 -------------------
-Esses exemplos foram estudados e testados com intuíto de aprender um pouco mais sobre microcontroladores, especialmente os PIC.
+Esses exemplos foram estudados e testados com intuíto de aprender um pouco mais sobre microcontroladores, especialmente os da família PIC16F.
 
 Sistemas requeridos
 -------------------
@@ -17,15 +17,16 @@ Sistemas requeridos
 * [mikroC PIC 6.2] (http://www.mikroe.com/mikroc/pic/)
 * [MPLAB IDE v8.92] (http://www.microchip.com/development-tools/downloads-archive)
 
-Para testa os exemplos
+Para testa todos os exemplos
 -------------------
 * Instale o Proteus 8.4
 * Instale o mikroC PIC 6.2
+* Instale o MPLAB IDE v8.92
 
 Exemplos em [C (ANSI)] (https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)) retirados do Youtube através do canal [WR Kits] (https://www.youtube.com/user/canalwrkits) - [Curso de Microcontroladores PIC] (https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh)
 -------------------
 01. [INTRODUÇÃO, PIC16F84A] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula01%20-%20INTRODU%C3%87%C3%83O%2C%20PIC16F84A) | [Curso de PIC #001] (https://www.youtube.com/watch?v=mFP3djjwVGk&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=1)
-02. FUSÍVEIS, DATASHEET, ISIS PROTEUS | [Curso de PIC #002] (https://www.youtube.com/watch?v=E1ClQ68zzKI&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=2)
+02. [FUSÍVEIS, DATASHEET, ISIS PROTEUS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula02%20-%20FUS%C3%8DVEIS%2C%20DATASHEET%2C%20ISIS%20PROTEUS) | [Curso de PIC #002] (https://www.youtube.com/watch?v=E1ClQ68zzKI&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=2)
 03. GRAVANDO O PRIMEIRO PIC, 12F675 | [Curso de PIC #003] (https://www.youtube.com/watch?v=yBTNL7EqeZk&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=3)
 04. ENTRADAS DIGITAIS | [Curso de PIC #004] (https://www.youtube.com/watch?v=-xAaA6n37bk&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=4)
 05. CRISTAL OSCILADOR EXTERNO, POLLING | [Curso de PIC #005] (https://www.youtube.com/watch?v=r6dkB9bTl7M&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=5)
@@ -151,3 +152,4 @@ Componentes eletrônicos
 02. [Gravador de PIC USB PicKit3] (http://www.filipeflop.com/pd-2bcdb3-gravador-de-pic-usb-pickit3.html?ct=41dc3&p=1&s=1)
 03. [Microcontrolador PIC16F628A] (http://www.baudaeletronica.com.br/microcontrolador-pic16f628a.html)
 04. [PARADOXUS PEPTO] (https://wrkits.com.br/catalog/show/141)
+05. [Microcontrolador PIC12F675-I/SN SMD] (http://www.soldafria.com.br/microcontrolador-pic12f675-isn-smd-p-4072.html)
