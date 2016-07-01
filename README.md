@@ -24,7 +24,7 @@ Para testa os exemplos
 
 Exemplos em [C (ANSI)] (https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)) retirados do Youtube através do canal [WR Kits] (https://www.youtube.com/user/canalwrkits) - [Curso de Microcontroladores PIC] (https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh)
 -------------------
-01. [INTRODUÇÃO, PIC16F84A] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/ANSI%20C/Youtube%20-%20WR%20Kits/Aula01%20-%20INTRODU%C3%87%C3%83O%2C%20PIC16F84A) | [Curso de PIC #001] (https://www.youtube.com/watch?v=mFP3djjwVGk&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=1)
+01. [INTRODUÇÃO, PIC16F84A] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula01%20-%20INTRODU%C3%87%C3%83O%2C%20PIC16F84A) | [Curso de PIC #001] (https://www.youtube.com/watch?v=mFP3djjwVGk&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=1)
 02. FUSÍVEIS, DATASHEET, ISIS PROTEUS | [Curso de PIC #002] (https://www.youtube.com/watch?v=E1ClQ68zzKI&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=2)
 03. GRAVANDO O PRIMEIRO PIC, 12F675 | [Curso de PIC #003] (https://www.youtube.com/watch?v=yBTNL7EqeZk&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=3)
 04. ENTRADAS DIGITAIS | [Curso de PIC #004] (https://www.youtube.com/watch?v=-xAaA6n37bk&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=4)
@@ -143,7 +143,7 @@ Exemplos em [Assembly] (https://pt.wikipedia.org/wiki/Assembly) retirados do You
 30. [SIMULANDO ENTRADA E SAÍDA DE INTERRUPÇÃO] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula30%20-%20SIMULANDO%20ENTRADA%20E%20SA%C3%8DDA%20DE%20INTERRUP%C3%87%C3%83O) | [Assembly para PIC #030] (https://www.youtube.com/watch?v=tXHZS1F6xyc&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=30)
 31. [TIMER0] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula31%20-%20TIMER0) | [Assembly para PIC #031] (https://www.youtube.com/watch?v=agOo3vVOO5s&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=31)
 32. [ENTENDA A INTERRUPÇÃO DO TIMER0] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula32%20-%20ENTENDA%20A%20INTERRUP%C3%87%C3%83O%20DO%20TIMER0) | [Assembly para PIC #032] (https://www.youtube.com/watch?v=1M3vwoxEWiM&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=32)
-33.	LED BLINK COM TIMER0 | [Assembly para PIC #033] (https://www.youtube.com/watch?v=0j3g-O96DkI&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=33) 
+33.	[LED BLINK COM TIMER0] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/Assembly/Youtube%20-%20WR%20Kits/Aula33%20-%20LED%20BLINK%20COM%20TIMER0) | [Assembly para PIC #033] (https://www.youtube.com/watch?v=0j3g-O96DkI&list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt&index=33) 
 
 Componentes eletrônicos
 -------------------

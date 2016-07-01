@@ -1,7 +1,6 @@
 
 void main()
 {
-
      /**
      Saída digital
      0: OUTPUT
@@ -21,8 +20,12 @@ void main()
      while(1)
      {
       PORTB = 0b00000110;
+      //RB1_bit = 1;
+      //RB2_bit = 1;
       delay_ms(1000);
       PORTB = 0b00000000;
+      //RB1_bit = 0;
+      //RB2_bit = 0;
       delay_ms(1000);
      }
 }
