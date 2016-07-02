@@ -39,5 +39,11 @@ Thumbs.db
 *.workspace
 *.pdsbak
 
+#LTspiceIV
+*.log
+*.raw
+*.net
+*.plt
+
 #Arquivos do WR Kits
 *.rar
