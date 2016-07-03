@@ -38,7 +38,7 @@ Exemplos em [C (ANSI)] (https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C
 09. [JOGO COM PIC] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula09%20-%20JOGO%20COM%20PIC) | [Curso de PIC #009] (https://www.youtube.com/watch?v=X1clKn-QU74&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=9)
 10. [CONTROLE DE SERVO MOTORES] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula10%20-%20CONTROLE%20DE%20SERVO%20MOTORES) | [Curso de PIC #010] (https://www.youtube.com/watch?v=pvy7gHR3pZ4&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=10)
 11. [CONVERSÃO A/D] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula11%20-%20CONVERS%C3%83O%20AD) | [Curso de PIC #011] (https://www.youtube.com/watch?v=63PSmk7rXrM&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=11)
-12. ADC COM PIC12F675 | [Curso de PIC #012] (https://www.youtube.com/watch?v=Uv8jkFCNbVI&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=12)
+12. [ADC COM PIC12F675] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula12%20-%20ADC%20COM%20PIC12F675) | [Curso de PIC #012] (https://www.youtube.com/watch?v=Uv8jkFCNbVI&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=12)
 13. DISPLAY DE 7 SEGMENTOS | [Curso de PIC #013] (https://www.youtube.com/watch?v=d4iNN5z8JMM&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=13)
 14. CONTADOR DE 00 A 99 | [Curso de PIC #014] (https://www.youtube.com/watch?v=WDgQ2rXmWTg&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=14)
 15. MULTIPLEXAÇÃO | [Curso de PIC #015] (https://www.youtube.com/watch?v=Y0pvnKG_xFQ&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=15)

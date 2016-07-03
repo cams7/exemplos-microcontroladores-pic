@@ -106,7 +106,7 @@ void main() {
 *          001      Comparator with Output
 *          110      Multiplexed Input with Internal Reference
 */
-   CMCON = 0x7;   // 0b00000011 - Desabilita os comparadores internos
+   CMCON = 0x07;   // 0b00000011 - Desabilita os comparadores internos
   
    TRISIO = 0x04; // 0b00000100 - GPIO.F0 seja uma entrada
    GPIO = 0x00;   // 0b00000000 - Inicia tudo em low
