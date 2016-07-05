@@ -16,7 +16,7 @@
 #define MAIS   PORTA.F1
 #define MENOS  PORTA.F0
 
-unsigned int cont = 0;
+int cont = 0;
 unsigned char unidade, dezena, centena;
 
 unsigned char numero_display(unsigned char digito);

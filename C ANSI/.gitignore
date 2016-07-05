@@ -5,3 +5,14 @@
 *.mcl
 *.ppc
 *_callertable.txt
+
+#mikroC PRO for PIC 4.15
+*.wch
+*.c.ini
+*.cfg
+*.cof
+*.dct
+*.dlt
+*.lst
+*.mcppi
+*.user.dic  

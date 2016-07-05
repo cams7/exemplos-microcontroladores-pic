@@ -42,7 +42,7 @@ Exemplos em [C (ANSI)] (https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C
 13. [DISPLAY DE 7 SEGMENTOS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula13%20-%20DISPLAY%20DE%207%20SEGMENTOS) | [Curso de PIC #013] (https://www.youtube.com/watch?v=d4iNN5z8JMM&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=13)
 14. [CONTADOR DE 00 A 99] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula14%20-%20CONTADOR%20DE%2000%20A%2099) | [Curso de PIC #014] (https://www.youtube.com/watch?v=WDgQ2rXmWTg&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=14)
 15. MULTIPLEXAÇÃO | [Curso de PIC #015] (https://www.youtube.com/watch?v=Y0pvnKG_xFQ&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=15)
-16. DISPLAYS MULTIPLEXADOS | [Curso de PIC #016] (https://www.youtube.com/watch?v=fw3_kZ2MUjU&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=16)
+16. [DISPLAYS MULTIPLEXADOS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula16%20-%20DISPLAYS%20MULTIPLEXADOS) | [Curso de PIC #016] (https://www.youtube.com/watch?v=fw3_kZ2MUjU&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=16)
 17. DEBUG NO MIKROC E NO PROTEUS | [Curso de PIC #017] (https://www.youtube.com/watch?v=SUTRodHKYPs&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=17)
 18. TIPOS DE CLOCK | [Curso de PIC #018] (https://www.youtube.com/watch?v=aB2v1YVRpFE&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=18)
 19. PIC 16F877A E REGISTRADORES | [Curso de PIC #019] (https://www.youtube.com/watch?v=TdNZQPBYttc&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=19)
@@ -156,3 +156,4 @@ Componentes eletrônicos
 04. [PARADOXUS PEPTO] (https://wrkits.com.br/catalog/show/141)
 05. [Microcontrolador PIC12F675-I/SN SMD] (http://www.soldafria.com.br/microcontrolador-pic12f675-isn-smd-p-4072.html)
 06. [Kit de Desenvolvimento Paradoxus 9] (https://www.wrkits.com.br/catalog/show/103)
+07. [Microcontrolador PIC16F877A] (http://www.baudaeletronica.com.br/microcontrolador-pic16f877a.html)
