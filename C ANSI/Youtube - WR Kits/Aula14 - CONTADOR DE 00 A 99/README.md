@@ -16,7 +16,7 @@ Componentes eletrônicos
 01. [Microcontrolador PIC16F628A] (http://www.baudaeletronica.com.br/microcontrolador-pic16f628a.html)
 02. [Pacote com 65 Cabos Jumper Macho x Macho para arduino] (http://www.soldafria.com.br/pacote-com-65-cabos-jumper-macho-x-macho-para-arduino-p-8011.html)
 03. [Chave Tactil 12x12x12mm 4 Terminais] (http://www.soldafria.com.br/chave-tactil-12x12x12mm-4-terminais-p-4283.html)
-04. [Cristal Oscilador 4MHz] (http://www.filipeflop.com/pd-24c92d-cristal-oscilador-4mhz.html?ct=&p=1&s=1)
+04. [Cristal Oscilador 4MHz - Caneca Alta] (http://www.baudaeletronica.com.br/cristal-oscilador-4mhz-1441.html)
 05. [Capacitor Disco Cerâmico 22pF x 50V NPO] (http://www.soldafria.com.br/capacitor-disco-ceramico-22pf-x-50v-npo-p-326.html)
 06. [Capacitor Disco Cerâmico 100nF x 50V (0,1uF/100K/100Kpf/104)] (http://www.soldafria.com.br/capacitor-disco-ceramico-100nf-x-50v-01uf100k100kpf104-p-36.html)
 07.	[Resistor de 10K Carbono 5% 1/4W (MR,PT,LR,DR)] (http://www.soldafria.com.br/resistor-de-10k-carbono-5-14w-mrptlrdr-p-163.html)

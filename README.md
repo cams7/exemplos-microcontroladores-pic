@@ -1,7 +1,7 @@
 Exemplos de aplicações para os [microcontroladores PIC] (https://pt.wikipedia.org/wiki/Microcontrolador_PIC)
 ========================
 * Autor: César Magalhães
-* Tecnologias: Proteus 8.4, mikroC PIC 6.2, MPLAB IDE v8.92, LTspiceIV 4.3K
+* Tecnologias: Proteus 8.4, mikroC PRO for PIC 4.15, MPLAB IDE v8.92, LTspiceIV 4.3K
 * Resumo: Aplicações para os microcontroladores PIC
 * Linguagens: Assembly, C (ANSI)
 * Fonte: <https://github.com/cams7/exemplos-microcontroladores-pic>
@@ -14,14 +14,14 @@ Esses exemplos foram estudados e testados com intuíto de aprender um pouco mais
 Sistemas requeridos
 -------------------
 * [Proteus 8.4] (https://www.labcenter.com/)
-* [mikroC PIC 6.2] (http://www.mikroe.com/mikroc/pic/)
+* [mikroC PRO for PIC 4.15] (http://www.mikroe.com/mikroc/pic/)
 * [MPLAB IDE v8.92] (http://www.microchip.com/development-tools/downloads-archive)
 * [LTspiceIV 4.3K] (http://www.linear.com/designtools/software/)
 
 Para testa todos os exemplos
 -------------------
 * Instale o Proteus 8.4
-* Instale o mikroC PIC 6.2
+* Instale o mikroC PRO for PIC 4.15
 * Instale o MPLAB IDE v8.92
 * Instale o LTspiceIV 4.3K
 
@@ -45,7 +45,7 @@ Exemplos em [C (ANSI)] (https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C
 16. [DISPLAYS MULTIPLEXADOS] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula16%20-%20DISPLAYS%20MULTIPLEXADOS) | [Curso de PIC #016] (https://www.youtube.com/watch?v=fw3_kZ2MUjU&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=16)
 17. DEBUG NO MIKROC E NO PROTEUS | [Curso de PIC #017] (https://www.youtube.com/watch?v=SUTRodHKYPs&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=17)
 18. TIPOS DE CLOCK | [Curso de PIC #018] (https://www.youtube.com/watch?v=aB2v1YVRpFE&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=18)
-19. PIC 16F877A E REGISTRADORES | [Curso de PIC #019] (https://www.youtube.com/watch?v=TdNZQPBYttc&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=19)
+19. [PIC 16F877A E REGISTRADORES] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula19%20-%20PIC%2016F877A%20E%20REGISTRADORES) | [Curso de PIC #019] (https://www.youtube.com/watch?v=TdNZQPBYttc&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=19)
 20. UART COM MAX232 E PIC | [Curso de PIC #020] (https://www.youtube.com/watch?v=9qd1QAmp9zM&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=20)
 21. TERMÔMETRO VIA SERIAL | [Curso de PIC #021] (https://www.youtube.com/watch?v=ilBr-iB6NgU&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=21)
 22. ASSEMBLY E CICLO DE MÁQUINA | [Curso de PIC #022] (https://www.youtube.com/watch?v=Kp52X4iwxTM&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=22)

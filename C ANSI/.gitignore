@@ -14,5 +14,6 @@
 *.dct
 *.dlt
 *.lst
+*.lst.ini
 *.mcppi
 *.user.dic  
