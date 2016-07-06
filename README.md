@@ -49,7 +49,7 @@ Exemplos em [C (ANSI)] (https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C
 20. [UART COM MAX232 E PIC] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula20%20-%20UART%20COM%20MAX232%20E%20PIC) | [Curso de PIC #020] (https://www.youtube.com/watch?v=9qd1QAmp9zM&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=20)
 21. [TERMÔMETRO VIA SERIAL] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula21%20-%20TERM%C3%94METRO%20VIA%20SERIAL) | [Curso de PIC #021] (https://www.youtube.com/watch?v=ilBr-iB6NgU&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=21)
 22. ASSEMBLY E CICLO DE MÁQUINA | [Curso de PIC #022] (https://www.youtube.com/watch?v=Kp52X4iwxTM&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=22)
-23. INTERRUPÇÕES, TIMER0 E PRESCALER | [Curso de PIC #023] (https://www.youtube.com/watch?v=K81eMwKZYYw&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=23)
+23. [INTERRUPÇÕES, TIMER0 E PRESCALER] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula23%20-%20INTERRUP%C3%87%C3%95ES%2C%20TIMER0%20E%20PRESCALER) | [Curso de PIC #023] (https://www.youtube.com/watch?v=K81eMwKZYYw&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=23)
 24. INTERRUPÇÃO x POLLING | [Curso de PIC #024] (https://www.youtube.com/watch?v=L_c0s2OpNtM&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=24)
 25. EEPROM - LEITURA E ESCRITA | [Curso de PIC #025] (https://www.youtube.com/watch?v=0rlgIs1EUe0&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=25)
 26. COMO AUMENTAR A VIDA ÚTIL DA EEPROM | [Curso de PIC #026] (https://www.youtube.com/watch?v=h5DSg5gVhuE&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=26)
