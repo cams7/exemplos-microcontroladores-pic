@@ -47,7 +47,7 @@ Exemplos em [C (ANSI)] (https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C
 18. TIPOS DE CLOCK | [Curso de PIC #018] (https://www.youtube.com/watch?v=aB2v1YVRpFE&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=18)
 19. [PIC 16F877A E REGISTRADORES] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula19%20-%20PIC%2016F877A%20E%20REGISTRADORES) | [Curso de PIC #019] (https://www.youtube.com/watch?v=TdNZQPBYttc&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=19)
 20. [UART COM MAX232 E PIC] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula20%20-%20UART%20COM%20MAX232%20E%20PIC) | [Curso de PIC #020] (https://www.youtube.com/watch?v=9qd1QAmp9zM&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=20)
-21. TERMÔMETRO VIA SERIAL | [Curso de PIC #021] (https://www.youtube.com/watch?v=ilBr-iB6NgU&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=21)
+21. [TERMÔMETRO VIA SERIAL] (https://github.com/cams7/exemplos-microcontroladores-pic/tree/master/C%20ANSI/Youtube%20-%20WR%20Kits/Aula21%20-%20TERM%C3%94METRO%20VIA%20SERIAL) | [Curso de PIC #021] (https://www.youtube.com/watch?v=ilBr-iB6NgU&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=21)
 22. ASSEMBLY E CICLO DE MÁQUINA | [Curso de PIC #022] (https://www.youtube.com/watch?v=Kp52X4iwxTM&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=22)
 23. INTERRUPÇÕES, TIMER0 E PRESCALER | [Curso de PIC #023] (https://www.youtube.com/watch?v=K81eMwKZYYw&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=23)
 24. INTERRUPÇÃO x POLLING | [Curso de PIC #024] (https://www.youtube.com/watch?v=L_c0s2OpNtM&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh&index=24)
